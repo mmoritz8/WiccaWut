@@ -30,6 +30,5 @@
     "jquery": "^3.4.1",
     "mongoose": "^5.3.16",
     "react-table": "^7.0.4",
-    "webpack": "^4.42.1"
   }
 }
